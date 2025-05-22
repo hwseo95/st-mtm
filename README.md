@@ -5,7 +5,7 @@ ST-MTM (KDD 2025)
 ### Hyunwoo Seo, Chiehyeon Lim
 
 
-### This repository provides the official implementation of ST-MTM from the paper [ST-MTM: Masked Time Series Modeling with Seasonal-Trend Decomposition for Time Series Forecasting]().
+### This repository provides the official implementation of ST-MTM from the paper [ST-MTM: Masked Time Series Modeling with Seasonal-Trend Decomposition for Time Series Forecasting](https://dl.acm.org/doi/10.1145/3690624.3709254).
 
 
 # Requirements
